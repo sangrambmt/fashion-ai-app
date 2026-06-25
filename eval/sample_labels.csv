@@ -1,0 +1,17 @@
+image_filename,garment_type,style,material,pattern,season,occasion,consumer_profile,inferred_continent,inferred_country,inferred_city
+bhm.jpeg,denim_jacket,casual,denim,solid_washed,spring_fall,everyday_casual,young_adult_male,North America,USA,San Francisco
+vrm.jpeg,blouse,feminine_semi-formal,chiffon,floral,spring_fall,work_evening,young_adult_female,Europe,UK,London
+ahmad-ebadi-ot28ybNQ-Is-unsplash.jpg,blazer_suit,power_dressing_feminine,satin_polyester,solid,all_season,work_evening,young_adult_female,Asia,Iran,Tehran
+behrouz-sasani-6OGml3UomZw-unsplash.jpg,oversized_tshirt,casual_streetwear,cotton,solid_contrast_stitch,spring_summer,everyday_casual,young_adult_male,Asia,Iran,Tehran
+edoardo-cuoghi-_NrW6FV5LKc-unsplash.jpg,fur_jacket,luxury_casual,faux_fur,quilted_solid,winter_fall,casual_evening,young_adult_female,Europe,Italy,Milan
+helen-ast-wXCQCVpsRQ0-unsplash.jpg,crop_top,edgy_streetwear,knit_mesh,solid,all_season,night_out_street,young_adult_female,Europe,Russia,Moscow
+mohamad-khosravi-5KyzZbonwqQ-unsplash.jpg,suit_blazer,formal_luxury,wool_blend,solid,fall_winter,formal_evening,young_adult_male,Asia,Iran,Tehran
+pexels-a1bda-37388702.jpg,leather_jacket,casual_streetwear,faux_leather,solid,fall_spring,everyday_casual,young_adult_male,Europe,Turkey,Istanbul
+pexels-ahcapture-34756564.jpg,graphic_crop_top,urban_streetwear,cotton_blend,graphic_print,all_season,street_night_out,young_adult_female,Europe,Germany,Berlin
+pexels-bassel-zaki-706250525-37850979.jpg,kimono_shirt,resort_minimalist,linen_viscose,solid,summer,casual_resort,adult_male,Europe,Italy,Rome
+pexels-bymuratisikofficial-27397010.jpg,tank_top,casual_minimalist,cotton_spandex,solid,summer,everyday_casual,teen_young_adult_female,Europe,Turkey,Istanbul
+pexels-justin-joseph-2753649-34706953.jpg,puffer_jacket,streetwear_branded,nylon_polyester,solid,winter,everyday_casual,young_adult_male,Europe,UK,London
+pexels-mchoudhury-19885203.jpg,distressed_sweater,avant_garde_streetwear,knit_wool_blend,distressed_solid,fall_winter,fashion_week_street,young_adult_genderfluid,Europe,Italy,Milan
+pexels-nguy-n-ti-n-th-nh-2150376175-37911772.jpg,one_shoulder_top,elegant_feminine,satin,solid,spring_summer,formal_evening,adult_female,Asia,Vietnam,Hanoi
+pexels-ntate-mohlala-sir-2160208879-36717634.jpg,camo_tank_top,urban_streetwear,cotton,camouflage,all_season,casual_street,young_adult_female,Africa,South Africa,Johannesburg
+pexels-sahfy-lenz-2153643467-36466495.jpg,layered_knit_vest,afro_urban_streetwear,mixed_cotton_denim_knit,geometric_plaid,all_season,casual_street,young_adult_male,Africa,Nigeria,Lagos
